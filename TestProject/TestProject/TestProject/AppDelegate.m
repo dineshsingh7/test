@@ -13,7 +13,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
-    int team=0;
+    int team=78;
     NSLog(@"%d",team);
     // Override point for customization after application launch.
     self.window.backgroundColor = [UIColor whiteColor];
