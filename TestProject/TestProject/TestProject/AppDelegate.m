@@ -13,9 +13,9 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
-    int team=78
-    int var1,var2
-    int a;
+    int team=78;
+    int var1,var2;
+
     
     NSLog(@"%d",team);
     // Override point for customization after application launch.
