@@ -15,6 +15,8 @@
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     int team=78;
     int var1,var2;
+    int a;
+    
     NSLog(@"%d",team);
     // Override point for customization after application launch.
     self.window.backgroundColor = [UIColor whiteColor];
