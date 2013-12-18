@@ -13,8 +13,8 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
-    int team=78;
-    int var1,var2;
+    int team=78
+    int var1,var2
     int a;
     
     NSLog(@"%d",team);
